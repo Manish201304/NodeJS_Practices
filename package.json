@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.10",
+    "EventEmitter": "^1.0.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "mongodb": "^6.8.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.9"
+  }
+}
